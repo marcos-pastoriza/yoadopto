@@ -1,2 +1,2 @@
-# yoadopto.net
+# yoadopto
 yoadopto
